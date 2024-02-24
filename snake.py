@@ -1,6 +1,6 @@
 
 def solution():
-    pass
+    print('Hello, I am a snake!')
 
 
 if __name__ == '__main__':
